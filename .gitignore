@@ -144,8 +144,13 @@ node_modules/
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< Updated upstream
 .yarn/install-state.gz
 .next
+=======
+.yarn/install-state.
+.next/
+>>>>>>> Stashed changes
 
 # testing
 /coverage
